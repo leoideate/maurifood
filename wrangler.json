@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "maurifood",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "704db855-70a7-44a1-a85a-b02535af701a",
+      "database_name": "maurifood"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
